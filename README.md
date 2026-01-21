@@ -1,4 +1,4 @@
-#😂 Joke Generator App (Streamlit)
+##😂 Joke Generator App (Streamlit)
 
 An interactive Joke Generator web app built using Python, Streamlit, and a public REST API (JokeAPI).
 Users can select different joke categories and instantly fetch funny jokes in real time.
